@@ -1,1 +1,1 @@
-AUORUS TEST 1.0
+1.0 Test Global
