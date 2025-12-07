@@ -1,4 +1,1 @@
-3.1_gv MOUSE C
-GDJ
-HDKD
-HSJ
+MOUSE 4.0
