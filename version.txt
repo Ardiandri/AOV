@@ -1,5 +1,1 @@
-5.0 MOUSE
-GSKS
-HSJS
-HSKS
-HSKS
+MouseCheat 5.1
